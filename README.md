@@ -1,6 +1,6 @@
 # git-training2
 
-prueba de montoya
+psdfasdfasdfasdrueba de montoya
 
 para commit: 
 
