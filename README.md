@@ -2,6 +2,11 @@
 
 prueba de montoya
 
-para commit: git commit -m TEXTo
+para commit: 
+
+git add pasa del workspace al staging
+git commit -m TEXTo
+
+git push origin master <-
 
 ot
